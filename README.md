@@ -1,6 +1,6 @@
 ### Hello there, I'm Alejandro Castillo
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2338C2FF&lines=Full-stack+developer;I+love+open+source.+%E2%9D%A4%EF%B8%8F+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Go.;Rust.;TypeScript.;Python.;Cat.)](https://git.io/typing-svg)
 
 
 <br/>
