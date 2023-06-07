@@ -10,6 +10,7 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ### Programming languages
+![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-C69700?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
@@ -23,6 +24,7 @@
 <p align="left">
   <a href="https://github.com/saturnavt/gojira"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=saturnavt&repo=gojira&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/saturnavt/howlongtobeat"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=saturnavt&repo=howlongtobeat&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/saturnavt/qt-modern-ui"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=saturnavt&repo=gojira&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
       <a href="https://github.com/saturnavt/howlongtobeat-api"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=saturnavt&repo=howlongtobeat-api&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
         <a href="https://github.com/saturnavt/pcspecs"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=saturnavt&repo=pcspecs&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
         <a href="https://github.com/saturnavt/rust-pcspecs"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=saturnavt&repo=rust-pcspecs&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
