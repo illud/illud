@@ -1,6 +1,6 @@
 ### Hello there, I'm Illud
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Go.;Rust.;TypeScript.;Python.;Cat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Cpp.;Go.;Rust.;TypeScript.;Python.;Cat.)](https://git.io/typing-svg)
 
 
 <br/>
