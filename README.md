@@ -12,6 +12,7 @@
 ### Programming languages
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-00ADD8?style=flat-square&logo=csharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-C69700?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
