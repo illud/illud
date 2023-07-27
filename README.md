@@ -1,6 +1,6 @@
 ### Hello there, I'm Illud
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Cpp.;Go.;Rust.;TypeScript.;Python.;Cat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Cpp.;Go.;C#.;Rust.;TypeScript.;Python.;Cat.)](https://git.io/typing-svg)
 
 
 <br/>
@@ -23,6 +23,7 @@
 ## 📘 My open source projects
 
 <p align="left">
+    <a href="https://github.com/saturnavt/cronos"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=saturnavt&repo=cronos&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/saturnavt/gojira"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=saturnavt&repo=gojira&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/saturnavt/howlongtobeat"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=saturnavt&repo=howlongtobeat&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/saturnavt/qt-modern-ui"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=saturnavt&repo=qt-modern-ui&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
