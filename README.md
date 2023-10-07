@@ -24,6 +24,7 @@
 
 <p align="left">
         <a href="https://github.com/illud/crono"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=illud&repo=crono&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/illud/visual-vcpkg-manager"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=illud&repo=visual-vcpkg-manager&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/illud/cronos"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=illud&repo=cronos&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
       <a href="https://github.com/illud/gohex"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=illud&repo=gohex&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/illud/gojira"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=illud&repo=gojira&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
