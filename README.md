@@ -3,12 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Cpp.;Go.;CSharp.;Rust.;TypeScript.;Python.;Cat.)](https://git.io/typing-svg)
 
 
-<br/>
+<!---<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="illud Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=illud&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="saturanvt's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=illud&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-<br/>
+<br/>-->
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 ### Programming languages
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
